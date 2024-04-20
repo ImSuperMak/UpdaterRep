@@ -1,1 +1,1 @@
-SceneManager.reloadGame();
+location.reload();
